@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-de-camargo-teixeira-84b45b1a5)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_cmtx/)
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasdeCamargo&show_icons=true&theme=dracula)
+
 
 ### Tecnologias que uso:
 
