@@ -67,6 +67,7 @@ profile soon.
 
 ### Contact
 
-Open to opportunities in digital design, FPGA and embedded systems.
+Open to opportunities in optoelectronics, simulation, quality and qualification engineering, digital design, FPGA and embedded systems.
+
 English: intermediate · Portuguese: native.
 Reach me on [LinkedIn](https://www.linkedin.com/in/douglas-de-camargo-teixeira-84b45b1a5).
