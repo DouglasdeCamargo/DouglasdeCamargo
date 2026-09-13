@@ -34,22 +34,22 @@ numerical simulation.
 
 ### Experience
 
-**Certification & Qualification Engineering Intern** · Lightera · May 2026 – present
+**Certification & Qualification Engineering Intern** · Lightera · May 2026 – present<br>
 Tests the mechanical and electrical properties of metallic and optical cables against UL, TIA
 and EN standards; maintains certifications across LATAM, EMEA and North America and prepares
 the test reports and traceability documentation used in internal and external audits.
 
-**Telecommunications and Automation Engineering Intern** · Copel · Jun 2025 – Mar 2026
+**Telecommunications and Automation Engineering Intern** · Copel · Jun 2025 – Mar 2026<br>
 Built Python and Power Automate tooling for circuit registration and verification, cutting
 manual auditing effort by 50%; analysed communication availability of field reclosers and
 automated switches across all substation environments.
 
-**President** (former Robotics Coordinator) · Eletrizar UFPR · Jul 2024 – present
+**President** (former Robotics Coordinator) · Eletrizar UFPR · Jul 2024 – present<br>
 Leads 30 volunteers and an annual R$ 20,000 budget delivering robotics and programming
 education to gifted students in 3 partner schools; mentors prototypes from concept to
 working build.
 
-**Undergraduate Researcher & Teaching Assistant** · UFPR · Aug 2023 – Jul 2024
+**Undergraduate Researcher & Teaching Assistant** · UFPR · Aug 2023 – Jul 2024<br>
 Wrote the QUCS circuit-simulation manual still used as course material in Electrical Circuits
 Laboratory II; developed Python image-processing pipelines (NumPy, OpenCV, Pandas) for
 pupillometry research on diabetic neuropathy.
