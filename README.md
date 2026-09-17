@@ -11,9 +11,9 @@ numerical simulation.
 
 ### What I work with
 
-- **Digital design** — RTL in VHDL and Verilog, testbenches and simulation, FPGA implementation
-- **Engineering simulation** — modelling and numerical analysis of electrical systems in Python and MATLAB/Octave
 - **C++** — algorithms and low-level programming, also used to teach embedded prototyping
+- **Engineering simulation** — modelling and numerical analysis of electrical systems in Python and MATLAB/Octave
+- **Digital design** — RTL in VHDL and Verilog, testbenches and simulation, FPGA implementation
 - **Test & measurement** — mechanical and electrical characterisation of cables against UL, TIA and EN standards
 
 ### Tech stack
